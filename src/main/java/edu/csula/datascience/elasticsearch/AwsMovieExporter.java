@@ -1,43 +1,80 @@
 package edu.csula.datascience.elasticsearch;
 
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
+
 import org.bson.Document;
-import org.elasticsearch.action.bulk.BackoffPolicy;
-import org.elasticsearch.action.bulk.BulkProcessor;
-import org.elasticsearch.action.bulk.BulkRequest;
-import org.elasticsearch.action.bulk.BulkResponse;
-import org.elasticsearch.action.index.IndexRequest;
-import org.elasticsearch.common.unit.ByteSizeUnit;
-import org.elasticsearch.common.unit.ByteSizeValue;
-import org.elasticsearch.common.unit.TimeValue;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+
+import com.google.common.collect.Lists;
 import com.google.gson.Gson;
 import com.mongodb.client.MongoCursor;
+
 import edu.csula.datascience.elasticsearch.model.Movie;
 import edu.csula.datascience.elasticsearch.model.Tweet;
 import edu.csula.datascience.utilities.MongoUtilities;
+import io.searchbox.action.BulkableAction;
+import io.searchbox.client.JestClient;
+import io.searchbox.client.JestClientFactory;
+import io.searchbox.client.config.HttpClientConfig;
+import io.searchbox.core.Bulk;
+import io.searchbox.core.Index;
 
-public class MovieExporter extends Exporter {
+//import movie data to AWS
+public class AwsMovieExporter {
 	private final static String indexName = "beautiful-movie-team-data";
 	private final static String typeName = "movies"; //type name
 	private List<Movie> movies;
 	private List<Tweet> tweets = new ArrayList<>();
-	BulkProcessor bulkProcessor;
-	int bulkSize;
-
-	public MovieExporter(String clusterName, List<Movie> movies, int bulkSize) {
-		super(clusterName);
+	private String awsAddress;
+	private JestClientFactory factory;
+	private JestClient client;
+	
+	public AwsMovieExporter(List<Movie> movies, String awsAddress) {
 		this.movies = movies;
-		this.bulkSize = bulkSize;
-		setBulk();		
+		this.awsAddress = awsAddress;
+		this.factory = new JestClientFactory();
+		this.factory.setHttpClientConfig(new HttpClientConfig
+	            .Builder(awsAddress)
+	            .multiThreaded(true)
+	            .build());
+		this.client = factory.getObject();
 	}
-
-	@Override
-	public void exportToES() {
+	
+	public void exportToAwsES() {
+		getRelevantTweets();
+		exportMoviesAWS(movies);
+	}
+	
+	public void exportMovieDataToJsonFile() throws IOException {
+		getRelevantTweets();
+		
+		//at this pt, we have the movie data we want. output to json.
+		JSONObject obj = new JSONObject();
+		obj.put("Name", "Movies JSON");
+ 
+		JSONArray moviesJsonArr = new JSONArray();
+		for (Movie movie : movies) {
+			moviesJsonArr.add(new Gson().toJson(movie));
+		}
+		obj.put("Movies", moviesJsonArr);
+ 
+		// try-with-resources statement based on post comment below :)
+		try (FileWriter file = new FileWriter("/Users/James/Documents/movies.json")) {
+			file.write(obj.toJSONString());
+			System.out.println("Successfully Copied JSON Object to File...");
+			System.out.println("\nJSON Object: " + obj);
+		}
+	}
+	
+	public void getRelevantTweets() {
 		int tweetCounter = 0;
 		MongoUtilities mongo = new MongoUtilities("movie-data", "tweets");
 		MongoCursor<Document> cursor = mongo.getCollection().find().iterator();
@@ -62,8 +99,25 @@ public class MovieExporter extends Exporter {
 		
 		if (tweets.size() != 0) {
 			addSentimentForMovie();
-			exportMovies(movies);
 		}
+	}
+	
+	public void exportMoviesAWS(List<Movie> movies) {
+        try {
+            Collection<BulkableAction> actions = Lists.newArrayList();
+            movies.stream()
+                .forEach(movie -> {
+                    actions.add(new Index.Builder(movie).build());
+                });
+            Bulk.Builder bulk = new Bulk.Builder()
+                .defaultIndex(indexName)
+                .defaultType(typeName)
+                .addAction(actions);
+            client.execute(bulk.build());
+            System.out.println("Inserted " + movies.size() + " Movies to AWS Cloud");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 	}
 	
 	public void addSentimentForMovie()
@@ -116,52 +170,20 @@ public class MovieExporter extends Exporter {
 		}
 	}
 	
-
-	public void exportMovies(List<Movie> movies) {
-		for (Movie movie : movies) {
-			insertObjAsJson(movie);
+	private boolean validateValue(String value) {
+		boolean valueValid = false;
+		if (value != null && !value.isEmpty()) {
+			valueValid = true;
 		}
-		System.out.println("Movies to be exported, list size: " + movies.size());
+		return valueValid;
 	}
 	
-	/**
-	 * Takes an object, casts it to Movie, and inserts that Tweet as JSON into ElasticSearch
-	 */
-	@Override
-	public void insertObjAsJson(Object object) {
-		if (object != null && object instanceof Movie) {
-			Movie movie = (Movie) object;
-			bulkProcessor.add(new IndexRequest(indexName, typeName).source(new Gson().toJson(movie)));
-			System.out.println("Movie record inserted into elastic search.");
-		}
-	}
-			
-	@Override
-	public boolean validateDocument(Document document) {
+	private boolean validateDocument(Document document) {
 		boolean docValid = false;
 		docValid = (validateValue(document.getString("username")) && validateValue(document.getString("text"))
 				&& validateValue(document.getString("date")));
 
 		return docValid;
 	}
-		
-	public void setBulk() {
-		bulkProcessor = BulkProcessor.builder(client, new BulkProcessor.Listener() {
-			@Override
-			public void beforeBulk(long executionId, BulkRequest request) {
-			}
 
-			@Override
-			public void afterBulk(long executionId, BulkRequest request, BulkResponse response) {
-			}
-
-			@Override
-			public void afterBulk(long executionId, BulkRequest request, Throwable failure) {
-				System.out.println("Facing error while importing data to elastic search");
-				failure.printStackTrace();
-			}
-		}).setBulkActions(bulkSize).setBulkSize(new ByteSizeValue(1, ByteSizeUnit.GB))
-				.setFlushInterval(TimeValue.timeValueSeconds(5)).setConcurrentRequests(1)
-				.setBackoffPolicy(BackoffPolicy.exponentialBackoff(TimeValue.timeValueMillis(100), 3)).build();
-	}
 }
