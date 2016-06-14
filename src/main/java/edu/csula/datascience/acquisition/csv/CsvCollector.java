@@ -68,6 +68,7 @@ public class CsvCollector implements Collector<Movie, Movie>{
                 .map(item -> new Document()
                         .append("movieID", item.getId())
                         .append("title", item.getTitle())
+                        .append("hashtagTitle", "#" + item.getHashtagTitle())
                         .append("rating", item.getRating())
                         .append("year", item.getYear()))
                 .collect(Collectors.toList());

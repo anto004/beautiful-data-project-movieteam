@@ -7,4 +7,9 @@ build/
 .settings/
 .project
 /bin/
+
+#this is too big size to commit
 mergedMovieData.csv
+
+#ignore the elasticsearch-data folder
+elasticsearch-data/

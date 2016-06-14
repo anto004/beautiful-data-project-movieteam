@@ -16,6 +16,7 @@ public class MongoUtilities {
 		this.mongoDB = mongoClient.getDatabase(database);
 		this.collection = mongoDB.getCollection(collection);
 	}
+	
 
 	public void printDocuments() {
 		// get many documents at once with iterator

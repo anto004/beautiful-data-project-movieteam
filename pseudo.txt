@@ -1,0 +1,18 @@
+SentimentObject :{
+	movieTitle : 
+	movieRating :
+	sentimentValue : 0 #starts at 0
+	tweetCount : 0 #starts at 0, will eventually be used to divide into sentimentValue
+}
+
+for each tweet t in total_tweets:
+	get movie m of t
+	get tweet_text text
+		if text.contains(word.inArrayList(positive.txt))
+			for each word in tweet also in positive.txt
+				m.SentimentObject.increaseSentimentValueBy1
+		if text.contains(word.inArrayList(negative.txt))
+			for each word in tweet also in negative.txt
+				m.SentimentObject.decreaseSentimentValueBy1
+	SentimentObject.increaseTweetCountValueBy1
+

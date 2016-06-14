@@ -14,14 +14,8 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 public class TwitterSource implements Source<TwitterResponse> {
 
-	private String TWITTER_CONSUMER_KEY = "KXjY39ROD2QMa0LUIkEBSnJMM";
-	private String TWITTER_CONSUMER_SECRET = "lX27EskdFXqFCYwQCo7zK8c7FT9NgL2YpDox0anq4U9g6SrOKG";
-	private String TWITTER_ACCESS_TOKEN = "722849671593402368-Fx0XHOaSsIyCQy0VJ6ZWnZ97TmWJ3CG";
-	private String TWITTER_ACCESS_SECRET = "ByBD930AcAK9Ue00PvWXMFQ3o7j4RSRSZXthz0rigzKOk";
-
 	private final String[] twitterSearchQuery;
 	private TwitterStream twitterStream;
-
 	private Producer twitterProd;
 	private Consumer twitterCons;
 	private BlockingQueue<TwitterResponse> twitterQueue;
@@ -73,9 +67,6 @@ public class TwitterSource implements Source<TwitterResponse> {
 					sharedTwitterQueue.put(new TwitterResponse(status.getId(), status.getFavoriteCount(),
 							status.getRetweetCount(), status.getUser().getScreenName(), status.getText(),
 							status.getCreatedAt().toString(), status.getSource()));
-					// System.out.println(
-					// "PRODUCED TWEET: @" + status.getUser().getScreenName() +
-					// " - " + status.getText());
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
@@ -115,13 +106,10 @@ public class TwitterSource implements Source<TwitterResponse> {
 
 		public void run() {
 			ConfigurationBuilder cb = new ConfigurationBuilder();
-			// cb.setDebugEnabled(true).setOAuthConsumerKey(System.getenv("TWITTER_CONSUMER_KEY"))
-			// .setOAuthConsumerSecret(System.getenv("TWITTER_CONSUMER_SECRET"))
-			// .setOAuthAccessToken(System.getenv("TWITTER_ACCESS_TOKEN"))
-			// .setOAuthAccessTokenSecret(System.getenv("TWITTER_ACCESS_SECRET"));
-			cb.setDebugEnabled(true).setOAuthConsumerKey(TWITTER_CONSUMER_KEY)
-					.setOAuthConsumerSecret(TWITTER_CONSUMER_SECRET).setOAuthAccessToken(TWITTER_ACCESS_TOKEN)
-					.setOAuthAccessTokenSecret(TWITTER_ACCESS_SECRET);
+			cb.setDebugEnabled(true).setOAuthConsumerKey(System.getenv("TWITTER_CONSUMER_KEY"))
+					.setOAuthConsumerSecret(System.getenv("TWITTER_CONSUMER_SECRET"))
+					.setOAuthAccessToken(System.getenv("TWITTER_ACCESS_TOKEN"))
+					.setOAuthAccessTokenSecret(System.getenv("TWITTER_ACCESS_SECRET"));
 
 			twitterStream = new TwitterStreamFactory(cb.build()).getInstance();
 			twitterStream.addListener(listener);

@@ -1,0 +1,6 @@
+Homework 3 - To Do
+
+Append movie data (title and rating) to tweet objects in json
+Iterate through all tweets and get sentiment analysis of tweets grouped by movies (rating)
+	for movie title = X, add sentiment analysis and divid total by number of tweets for X
+Plot on line graph with x-axis as rating, y-axis is sentiment rating

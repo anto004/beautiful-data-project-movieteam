@@ -1,0 +1,400 @@
+{"_id":{"$oid":"574258359d6ed502eee624a5"},"movieID":113345,"title":"Jupiter Ascending ","hashtagTitle":"#JupiterAscending","rating":2.6543715846994536,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624a6"},"movieID":115713,"title":"Ex Machina ","hashtagTitle":"#ExMachina","rating":3.8894774011299433,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624a7"},"movieID":117466,"title":"In the Heart of the Sea ","hashtagTitle":"#IntheHeartoftheSea","rating":3.359154929577465,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624a8"},"movieID":117529,"title":"Jurassic World ","hashtagTitle":"#JurassicWorld","rating":3.3765470297029703,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624a9"},"movieID":118706,"title":"Black Sea ","hashtagTitle":"#BlackSea","rating":3.0843373493975905,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624aa"},"movieID":120466,"title":"Chappie ","hashtagTitle":"#Chappie","rating":3.4442567567567566,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ab"},"movieID":120635,"title":"Taken 3 ","hashtagTitle":"#Taken3","rating":2.946022727272727,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ac"},"movieID":120637,"title":"Blackhat ","hashtagTitle":"#Blackhat","rating":2.7565789473684212,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ad"},"movieID":120799,"title":"Terminator Genisys ","hashtagTitle":"#TerminatorGenisys","rating":3.1535859269282813,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ae"},"movieID":122884,"title":"Insidious Chapter 3 ","hashtagTitle":"#InsidiousChapter3","rating":3.066666666666667,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624af"},"movieID":122894,"title":"Avatar 2 ","hashtagTitle":"#Avatar2","rating":2.0,"year":2016}
+{"_id":{"$oid":"574258369d6ed502eee624b0"},"movieID":122902,"title":"Fantastic Four ","hashtagTitle":"#FantasticFour","rating":2.2699724517906334,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b1"},"movieID":125543,"title":"Against The Sun ","hashtagTitle":"#AgainstTheSun","rating":2.8461538461538463,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b2"},"movieID":125914,"title":"Mortdecai ","hashtagTitle":"#Mortdecai","rating":2.8227848101265822,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b3"},"movieID":125916,"title":"Fifty Shades of Grey ","hashtagTitle":"#FiftyShadesofGrey","rating":1.886938202247191,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b4"},"movieID":126420,"title":"American Heist ","hashtagTitle":"#AmericanHeist","rating":2.5588235294117645,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b5"},"movieID":126482,"title":"Strange Magic ","hashtagTitle":"#StrangeMagic","rating":3.0434782608695654,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b6"},"movieID":127096,"title":"Project Almanac ","hashtagTitle":"#ProjectAlmanac","rating":3.2444444444444445,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b7"},"movieID":127108,"title":"Brooklyn ","hashtagTitle":"#Brooklyn","rating":3.6699029126213594,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b8"},"movieID":127110,"title":"Digging for Fire ","hashtagTitle":"#DiggingforFire","rating":2.75,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624b9"},"movieID":127112,"title":"Don Verdean ","hashtagTitle":"#DonVerdean","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ba"},"movieID":127114,"title":"The End of the Tour ","hashtagTitle":"#TheEndoftheTour","rating":3.5597014925373136,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624bb"},"movieID":127116,"title":"Experimenter ","hashtagTitle":"#Experimenter","rating":3.5526315789473686,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624bc"},"movieID":127118,"title":"I Am Michael ","hashtagTitle":"#IAmMichael","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624bd"},"movieID":127122,"title":"Last Days in the Desert ","hashtagTitle":"#LastDaysintheDesert","rating":0.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624be"},"movieID":127126,"title":"Seoul Searching ","hashtagTitle":"#SeoulSearching","rating":2.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624bf"},"movieID":127128,"title":"Mississippi Grind ","hashtagTitle":"#MississippiGrind","rating":3.2241379310344827,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c0"},"movieID":127130,"title":"Mistress America ","hashtagTitle":"#MistressAmerica","rating":3.4029850746268657,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c1"},"movieID":127132,"title":"Zipper ","hashtagTitle":"#Zipper","rating":2.888888888888889,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c2"},"movieID":127134,"title":"A Walk in the Woods ","hashtagTitle":"#AWalkintheWoods","rating":3.375,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c3"},"movieID":127136,"title":"True Story ","hashtagTitle":"#TrueStory","rating":3.122093023255814,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c4"},"movieID":127138,"title":"Ten Thousand Saints ","hashtagTitle":"#TenThousandSaints","rating":2.6818181818181817,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c5"},"movieID":127140,"title":"Sleeping with Other People ","hashtagTitle":"#SleepingwithOtherPeople","rating":3.16,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c6"},"movieID":127142,"title":"Beaver Trilogy Part IV ","hashtagTitle":"#BeaverTrilogyPartIV","rating":0.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c7"},"movieID":127148,"title":"The Hunting Ground ","hashtagTitle":"#TheHuntingGround","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c8"},"movieID":127150,"title":"Fresh Dressed ","hashtagTitle":"#FreshDressed","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624c9"},"movieID":127154,"title":"The Mask You Live In ","hashtagTitle":"#TheMaskYouLiveIn","rating":4.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ca"},"movieID":127158,"title":"Tig ","hashtagTitle":"#Tig","rating":3.6,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624cb"},"movieID":127160,"title":"In Football We Trust ","hashtagTitle":"#InFootballWeTrust","rating":0.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624cc"},"movieID":127162,"title":"Most Likely to Succeed ","hashtagTitle":"#MostLikelytoSucceed","rating":0.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624cd"},"movieID":127188,"title":"Advantageous ","hashtagTitle":"#Advantageous","rating":3.5172413793103448,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ce"},"movieID":127192,"title":"The Bronze ","hashtagTitle":"#TheBronze","rating":2.125,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624cf"},"movieID":127194,"title":"The D Train ","hashtagTitle":"#TheDTrain","rating":2.9444444444444446,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d0"},"movieID":127196,"title":"The Diary of a Teenage Girl ","hashtagTitle":"#TheDiaryofaTeenageGirl","rating":3.260869565217391,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d1"},"movieID":127198,"title":"Dope ","hashtagTitle":"#Dope","rating":3.641826923076923,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d2"},"movieID":127200,"title":"I Smile Back ","hashtagTitle":"#ISmileBack","rating":2.8823529411764706,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d3"},"movieID":127202,"title":"Me and Earl and the Dying Girl ","hashtagTitle":"#MeandEarlandtheDyingGirl","rating":3.8304157549234135,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d4"},"movieID":127204,"title":"The Overnight ","hashtagTitle":"#TheOvernight","rating":3.102272727272727,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d5"},"movieID":127208,"title":"Results ","hashtagTitle":"#Results","rating":2.9875,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d6"},"movieID":127210,"title":"Songs My Brothers Taught Me ","hashtagTitle":"#SongsMyBrothersTaughtMe","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d7"},"movieID":127212,"title":"The Stanford Prison Experiment ","hashtagTitle":"#TheStanfordPrisonExperiment","rating":3.2222222222222223,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d8"},"movieID":127216,"title":"Unexpected ","hashtagTitle":"#Unexpected","rating":2.4375,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624d9"},"movieID":127218,"title":"Z for Zachariah ","hashtagTitle":"#ZforZachariah","rating":2.7403846153846154,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624da"},"movieID":127311,"title":"The Forbidden Room ","hashtagTitle":"#TheForbiddenRoom","rating":3.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624db"},"movieID":127323,"title":"Vice ","hashtagTitle":"#Vice","rating":2.7567567567567566,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624dc"},"movieID":127451,"title":"A Grain of Truth ","hashtagTitle":"#AGrainofTruth","rating":3.75,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624dd"},"movieID":127583,"title":"Chuck Norris vs Communism ","hashtagTitle":"#ChuckNorrisvsCommunism","rating":3.1,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624de"},"movieID":127610,"title":"Average Italian ","hashtagTitle":"#AverageItalian","rating":3.8333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624df"},"movieID":128360,"title":"The Hateful Eight ","hashtagTitle":"#TheHatefulEight","rating":3.9002100840336134,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e0"},"movieID":128488,"title":"Wild Card ","hashtagTitle":"#WildCard","rating":3.0609756097560976,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e1"},"movieID":128512,"title":"Paper Towns ","hashtagTitle":"#PaperTowns","rating":3.3200934579439254,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e2"},"movieID":128520,"title":"The Wedding Ringer ","hashtagTitle":"#TheWeddingRinger","rating":3.308,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e3"},"movieID":128542,"title":"Wyrmwood ","hashtagTitle":"#Wyrmwood","rating":2.803030303030303,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e4"},"movieID":128592,"title":"The Boy Next Door ","hashtagTitle":"#TheBoyNextDoor","rating":2.3793103448275863,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e5"},"movieID":128594,"title":"Boy Meets Girl ","hashtagTitle":"#BoyMeetsGirl","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e6"},"movieID":128604,"title":"Knight of Cups ","hashtagTitle":"#KnightofCups","rating":2.625,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e7"},"movieID":128606,"title":"45 Years ","hashtagTitle":"#45Years","rating":3.473684210526316,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e8"},"movieID":128608,"title":"Diary of a Chambermaid ","hashtagTitle":"#DiaryofaChambermaid","rating":2.1666666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624e9"},"movieID":128610,"title":"Ixcanul Volcano ","hashtagTitle":"#IxcanulVolcano","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ea"},"movieID":128614,"title":"Nobody Wants the Night ","hashtagTitle":"#NobodyWantstheNight","rating":1.75,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624eb"},"movieID":128616,"title":"As We Were Dreaming ","hashtagTitle":"#AsWeWereDreaming","rating":3.6666666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ec"},"movieID":128620,"title":"Victoria ","hashtagTitle":"#Victoria","rating":3.9237288135593222,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ed"},"movieID":128624,"title":"Petting Zoo ","hashtagTitle":"#PettingZoo","rating":1.6875,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ee"},"movieID":128632,"title":"Home Sweet Hell ","hashtagTitle":"#HomeSweetHell","rating":2.24,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ef"},"movieID":128690,"title":"Adult Camp ","hashtagTitle":"#AdultCamp","rating":3.1666666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f0"},"movieID":128727,"title":"Bizarre ","hashtagTitle":"#Bizarre","rating":2.1666666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f1"},"movieID":128838,"title":"Crimson Peak ","hashtagTitle":"#CrimsonPeak","rating":3.3527918781725887,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f2"},"movieID":128975,"title":"Hot Tub Time Machine 2 ","hashtagTitle":"#HotTubTimeMachine2","rating":2.4375,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f3"},"movieID":129030,"title":"The Coven ","hashtagTitle":"#TheCoven","rating":2.1052631578947367,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f4"},"movieID":129354,"title":"Focus ","hashtagTitle":"#Focus","rating":3.4903846153846154,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f5"},"movieID":129364,"title":"Every Thing Will Be Fine ","hashtagTitle":"#EveryThingWillBeFine","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f6"},"movieID":129372,"title":"Demonic ","hashtagTitle":"#Demonic","rating":2.95,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f7"},"movieID":129428,"title":"The Second Best Exotic Marigold Hotel ","hashtagTitle":"#TheSecondBestExoticMarigoldHotel","rating":3.456896551724138,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f8"},"movieID":129657,"title":"Tracers ","hashtagTitle":"#Tracers","rating":2.5283018867924527,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624f9"},"movieID":129675,"title":"The Last Wolf ","hashtagTitle":"#TheLastWolf","rating":3.2777777777777777,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624fa"},"movieID":129707,"title":"The Lazarus Effect ","hashtagTitle":"#TheLazarusEffect","rating":2.5136986301369864,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624fb"},"movieID":129737,"title":"Unfinished Business ","hashtagTitle":"#UnfinishedBusiness","rating":2.9711538461538463,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624fc"},"movieID":129820,"title":"Spare Parts ","hashtagTitle":"#SpareParts","rating":3.767857142857143,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624fd"},"movieID":129822,"title":"Bikes vs Cars ","hashtagTitle":"#BikesvsCars","rating":2.9375,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624fe"},"movieID":129853,"title":"To Write Love on Her Arms ","hashtagTitle":"#ToWriteLoveonHerArms","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee624ff"},"movieID":129937,"title":"Run All Night ","hashtagTitle":"#RunAllNight","rating":3.196113074204947,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62500"},"movieID":129949,"title":"Assassin ","hashtagTitle":"#Assassin","rating":1.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62501"},"movieID":130056,"title":"Kingdom of Shadows ","hashtagTitle":"#KingdomofShadows","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62502"},"movieID":130069,"title":"Road Hard ","hashtagTitle":"#RoadHard","rating":2.9444444444444446,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62503"},"movieID":130073,"title":"Cinderella ","hashtagTitle":"#Cinderella","rating":3.291044776119403,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62504"},"movieID":130075,"title":"Frozen Fever ","hashtagTitle":"#FrozenFever","rating":2.977777777777778,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62505"},"movieID":130087,"title":"The Cobbler ","hashtagTitle":"#TheCobbler","rating":2.792134831460674,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62506"},"movieID":130089,"title":"Crazy Beautiful You ","hashtagTitle":"#CrazyBeautifulYou","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62507"},"movieID":130326,"title":"Other Girls ","hashtagTitle":"#OtherGirls","rating":3.625,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62508"},"movieID":130448,"title":"Poltergeist ","hashtagTitle":"#Poltergeist","rating":2.54040404040404,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62509"},"movieID":130450,"title":"Pan ","hashtagTitle":"#Pan","rating":2.8472222222222223,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6250a"},"movieID":130462,"title":"The Boy ","hashtagTitle":"#TheBoy","rating":2.607142857142857,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6250b"},"movieID":130466,"title":"I Hate Christian Laettner ","hashtagTitle":"#IHateChristianLaettner","rating":3.725,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6250c"},"movieID":130468,"title":"The Circle ","hashtagTitle":"#TheCircle","rating":3.6666666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6250d"},"movieID":130490,"title":"Insurgent ","hashtagTitle":"#Insurgent","rating":3.173076923076923,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6250e"},"movieID":130492,"title":"Dum Laga Ke Haisha ","hashtagTitle":"#DumLagaKeHaisha","rating":3.375,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6250f"},"movieID":130520,"title":"Home ","hashtagTitle":"#Home","rating":3.282828282828283,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62510"},"movieID":130576,"title":"Midnight Special ","hashtagTitle":"#MidnightSpecial","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62511"},"movieID":130618,"title":"Baby ","hashtagTitle":"#Baby","rating":3.526315789473684,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62512"},"movieID":130634,"title":"Furious 7 ","hashtagTitle":"#Furious7","rating":3.3910034602076125,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62513"},"movieID":130682,"title":"Muck ","hashtagTitle":"#Muck","rating":1.6,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62514"},"movieID":130684,"title":"We Are Still Here ","hashtagTitle":"#WeAreStillHere","rating":2.671875,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62515"},"movieID":130686,"title":"The Final Girls ","hashtagTitle":"#TheFinalGirls","rating":3.2653061224489797,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62516"},"movieID":130840,"title":"Spring ","hashtagTitle":"#Spring","rating":3.517857142857143,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62517"},"movieID":130956,"title":"Child 44 ","hashtagTitle":"#Child44","rating":3.144578313253012,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62518"},"movieID":131013,"title":"Get Hard ","hashtagTitle":"#GetHard","rating":2.990415335463259,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62519"},"movieID":131019,"title":"The Intruders ","hashtagTitle":"#TheIntruders","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6251a"},"movieID":131029,"title":"Mara und der Feuerbringer ","hashtagTitle":"#MaraundderFeuerbringer","rating":1.3,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6251b"},"movieID":131170,"title":"Parallels ","hashtagTitle":"#Parallels","rating":3.1847826086956523,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6251c"},"movieID":131448,"title":"Walter ","hashtagTitle":"#Walter","rating":2.9,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6251d"},"movieID":131451,"title":"The Atticus Institute ","hashtagTitle":"#TheAtticusInstitute","rating":3.236842105263158,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6251e"},"movieID":131570,"title":"The Humbling ","hashtagTitle":"#TheHumbling","rating":2.5625,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6251f"},"movieID":131656,"title":"Shaun the Sheep Movie ","hashtagTitle":"#ShauntheSheepMovie","rating":3.481382978723404,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62520"},"movieID":131714,"title":"Last Knights ","hashtagTitle":"#LastKnights","rating":3.2151162790697674,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62521"},"movieID":131726,"title":"Matt Shepard Is a Friend of Mine ","hashtagTitle":"#MattShepardIsaFriendofMine","rating":4.25,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62522"},"movieID":131796,"title":"Woman in Gold ","hashtagTitle":"#WomaninGold","rating":3.621019108280255,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62523"},"movieID":131820,"title":"Echoes ","hashtagTitle":"#Echoes","rating":2.35,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62524"},"movieID":131850,"title":"Killing Jesus ","hashtagTitle":"#KillingJesus","rating":2.6666666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62525"},"movieID":132046,"title":"Tomorrowland ","hashtagTitle":"#Tomorrowland","rating":3.19812925170068,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62526"},"movieID":132128,"title":"Faults ","hashtagTitle":"#Faults","rating":3.532258064516129,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62527"},"movieID":132136,"title":"The Barber ","hashtagTitle":"#TheBarber","rating":3.1153846153846154,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62528"},"movieID":132153,"title":"Buzzard ","hashtagTitle":"#Buzzard","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62529"},"movieID":132159,"title":"The Reconstruction of William Zero ","hashtagTitle":"#TheReconstructionofWilliamZero","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6252a"},"movieID":132173,"title":"Adult Beginners ","hashtagTitle":"#AdultBeginners","rating":3.3076923076923075,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6252b"},"movieID":132424,"title":"The Longest Ride ","hashtagTitle":"#TheLongestRide","rating":3.792682926829268,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6252c"},"movieID":132448,"title":"Einstein ","hashtagTitle":"#Einstein","rating":4.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6252d"},"movieID":132458,"title":"Monkey Kingdom ","hashtagTitle":"#MonkeyKingdom","rating":3.2857142857142856,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6252e"},"movieID":132480,"title":"The Age of Adaline ","hashtagTitle":"#TheAgeofAdaline","rating":3.51980198019802,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6252f"},"movieID":132496,"title":"Danny Collins ","hashtagTitle":"#DannyCollins","rating":3.4338235294117645,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62530"},"movieID":132520,"title":"Bad Hurt ","hashtagTitle":"#BadHurt","rating":2.5833333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62531"},"movieID":132547,"title":"A Girl Like Her ","hashtagTitle":"#AGirlLikeHer","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62532"},"movieID":132549,"title":"Grandma ","hashtagTitle":"#Grandma","rating":3.391304347826087,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62533"},"movieID":132569,"title":"Comedy Central Roast of Justin Bieber ","hashtagTitle":"#ComedyCentralRoastofJustinBieber","rating":3.265625,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62534"},"movieID":132594,"title":"A Royal Night Out ","hashtagTitle":"#ARoyalNightOut","rating":2.45,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62535"},"movieID":132616,"title":"The Walking Deceased ","hashtagTitle":"#TheWalkingDeceased","rating":2.6818181818181817,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62536"},"movieID":132644,"title":"An Act of War ","hashtagTitle":"#AnActofWar","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62537"},"movieID":132658,"title":"When I Live My Life Over Again ","hashtagTitle":"#WhenILiveMyLifeOverAgain","rating":3.75,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62538"},"movieID":132660,"title":"Man Up ","hashtagTitle":"#ManUp","rating":3.41025641025641,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62539"},"movieID":132735,"title":"The Culling ","hashtagTitle":"#TheCulling","rating":1.5833333333333333,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6253a"},"movieID":132794,"title":"Sweet Home ","hashtagTitle":"#SweetHome","rating":3.75,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6253b"},"movieID":132796,"title":"San Andreas ","hashtagTitle":"#SanAndreas","rating":2.8683574879227054,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6253c"},"movieID":132798,"title":"Regression ","hashtagTitle":"#Regression","rating":3.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6253d"},"movieID":132906,"title":"The Man with the Iron Fists 2 ","hashtagTitle":"#TheManwiththeIronFists2","rating":2.5384615384615383,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6253e"},"movieID":132961,"title":"Far from the Madding Crowd ","hashtagTitle":"#FarfromtheMaddingCrowd","rating":3.5873015873015874,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6253f"},"movieID":133129,"title":"Barbie in Princess Power ","hashtagTitle":"#BarbieinPrincessPower","rating":2.227272727272727,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62540"},"movieID":133183,"title":"The Casual Vacancy ","hashtagTitle":"#TheCasualVacancy","rating":3.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62541"},"movieID":133223,"title":"One Eyed Girl ","hashtagTitle":"#OneEyedGirl","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62542"},"movieID":133281,"title":"Ricki and the Flash ","hashtagTitle":"#RickiandtheFlash","rating":2.857142857142857,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62543"},"movieID":133319,"title":"Resistance ","hashtagTitle":"#Resistance","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62544"},"movieID":133339,"title":"1915 ","hashtagTitle":"#1915","rating":3.6666666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62545"},"movieID":133347,"title":"Ride ","hashtagTitle":"#Ride","rating":3.65,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62546"},"movieID":133349,"title":"The Eichmann Show ","hashtagTitle":"#TheEichmannShow","rating":3.357142857142857,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62547"},"movieID":133365,"title":"Partisan ","hashtagTitle":"#Partisan","rating":3.3125,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62548"},"movieID":133377,"title":"Infini ","hashtagTitle":"#Infini","rating":2.8666666666666667,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62549"},"movieID":133389,"title":"Piku ","hashtagTitle":"#Piku","rating":3.4054054054054053,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6254a"},"movieID":133399,"title":"German Angst ","hashtagTitle":"#GermanAngst","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6254b"},"movieID":133417,"title":"Luokkakokous ","hashtagTitle":"#Luokkakokous","rating":1.8846153846153846,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6254c"},"movieID":133419,"title":"Pitch Perfect 2 ","hashtagTitle":"#PitchPerfect2","rating":3.2655172413793103,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6254d"},"movieID":133547,"title":"El bosque de Karadima ","hashtagTitle":"#ElbosquedeKaradima","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6254e"},"movieID":133583,"title":"Bessie ","hashtagTitle":"#Bessie","rating":3.2333333333333334,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6254f"},"movieID":133602,"title":"Nightingale ","hashtagTitle":"#Nightingale","rating":4.071428571428571,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62550"},"movieID":133645,"title":"Carol ","hashtagTitle":"#Carol","rating":3.6607142857142856,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62551"},"movieID":133647,"title":"Thought Crimes ","hashtagTitle":"#ThoughtCrimes","rating":3.0625,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62552"},"movieID":133689,"title":"Pound of Flesh ","hashtagTitle":"#PoundofFlesh","rating":2.3214285714285716,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62553"},"movieID":133710,"title":"Strangerland ","hashtagTitle":"#Strangerland","rating":2.6333333333333333,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62554"},"movieID":133753,"title":"Teacher of the Year ","hashtagTitle":"#TeacheroftheYear","rating":2.9722222222222223,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62555"},"movieID":133771,"title":"The Lobster ","hashtagTitle":"#TheLobster","rating":3.7564102564102564,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62556"},"movieID":133773,"title":"Beautiful and Twisted ","hashtagTitle":"#BeautifulandTwisted","rating":2.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62557"},"movieID":133782,"title":"Maggie ","hashtagTitle":"#Maggie","rating":2.7,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62558"},"movieID":133798,"title":"Hot Pursuit ","hashtagTitle":"#HotPursuit","rating":2.611111111111111,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62559"},"movieID":133802,"title":"Slow West ","hashtagTitle":"#SlowWest","rating":3.5618556701030926,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6255a"},"movieID":133824,"title":"The Human Centipede III (Final Sequence) ","hashtagTitle":"#TheHumanCentipedeIII(FinalSequence)","rating":1.6296296296296295,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6255b"},"movieID":133835,"title":"Just About Famous ","hashtagTitle":"#JustAboutFamous","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6255c"},"movieID":133859,"title":"Deli Man ","hashtagTitle":"#DeliMan","rating":3.6666666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6255d"},"movieID":133865,"title":"Southern Rites ","hashtagTitle":"#SouthernRites","rating":3.2857142857142856,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6255e"},"movieID":133867,"title":"Barely Lethal ","hashtagTitle":"#BarelyLethal","rating":3.142857142857143,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6255f"},"movieID":133873,"title":"The Fencer ","hashtagTitle":"#TheFencer","rating":3.4285714285714284,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62560"},"movieID":133945,"title":"Deep Web ","hashtagTitle":"#DeepWeb","rating":3.4411764705882355,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62561"},"movieID":134017,"title":"You Are My Sunshine ","hashtagTitle":"#YouAreMySunshine","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62562"},"movieID":134117,"title":"San Andreas Quake ","hashtagTitle":"#SanAndreasQuake","rating":1.7142857142857142,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62563"},"movieID":134158,"title":"Return to Sender ","hashtagTitle":"#ReturntoSender","rating":2.5555555555555554,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62564"},"movieID":134170,"title":"Kung Fury ","hashtagTitle":"#KungFury","rating":3.603711790393013,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62565"},"movieID":134178,"title":"Detective Byomkesh Bakshy ","hashtagTitle":"#DetectiveByomkeshBakshy","rating":3.642857142857143,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62566"},"movieID":134180,"title":"Badlapur ","hashtagTitle":"#Badlapur","rating":3.0555555555555554,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62567"},"movieID":134214,"title":"Youth ","hashtagTitle":"#Youth","rating":3.6296296296296298,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62568"},"movieID":134246,"title":"Survivor ","hashtagTitle":"#Survivor","rating":3.0846153846153848,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62569"},"movieID":134248,"title":"Hot Girls Wanted ","hashtagTitle":"#HotGirlsWanted","rating":3.103896103896104,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6256a"},"movieID":134360,"title":"A Gift of Miracles ","hashtagTitle":"#AGiftofMiracles","rating":0.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6256b"},"movieID":134362,"title":"Curse of the Witching Tree ","hashtagTitle":"#CurseoftheWitchingTree","rating":2.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6256c"},"movieID":134368,"title":"Spy ","hashtagTitle":"#Spy","rating":3.558894230769231,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6256d"},"movieID":134393,"title":"Trainwreck ","hashtagTitle":"#Trainwreck","rating":3.224400871459695,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6256e"},"movieID":134519,"title":"Suspicious Truth ","hashtagTitle":"#SuspiciousTruth","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6256f"},"movieID":134528,"title":"Aloha ","hashtagTitle":"#Aloha","rating":2.6538461538461537,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62570"},"movieID":134583,"title":"Misery Loves Comedy ","hashtagTitle":"#MiseryLovesComedy","rating":3.4444444444444446,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62571"},"movieID":134629,"title":"Flight World War II ","hashtagTitle":"#FlightWorldWarII","rating":2.25,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62572"},"movieID":134680,"title":"Taxi ","hashtagTitle":"#Taxi","rating":4.05,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62573"},"movieID":134775,"title":"Dragon Blade ","hashtagTitle":"#DragonBlade","rating":2.772727272727273,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62574"},"movieID":134783,"title":"Entourage ","hashtagTitle":"#Entourage","rating":3.0654205607476634,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62575"},"movieID":134785,"title":"London Road ","hashtagTitle":"#LondonRoad","rating":3.25,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62576"},"movieID":134796,"title":"Bitter Lake ","hashtagTitle":"#BitterLake","rating":3.9791666666666665,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62577"},"movieID":134800,"title":"Ventoux ","hashtagTitle":"#Ventoux","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62578"},"movieID":134808,"title":"No Way Jose ","hashtagTitle":"#NoWayJose","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62579"},"movieID":134853,"title":"Inside Out ","hashtagTitle":"#InsideOut","rating":4.01651376146789,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6257a"},"movieID":134855,"title":"The World Made Straight ","hashtagTitle":"#TheWorldMadeStraight","rating":4.25,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6257b"},"movieID":134859,"title":"The Wolfpack ","hashtagTitle":"#TheWolfpack","rating":3.3815789473684212,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6257c"},"movieID":134871,"title":"The Sisterhood of Night ","hashtagTitle":"#TheSisterhoodofNight","rating":3.357142857142857,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6257d"},"movieID":135135,"title":"Max ","hashtagTitle":"#Max","rating":3.0454545454545454,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6257e"},"movieID":135137,"title":"Pixels ","hashtagTitle":"#Pixels","rating":2.7031746031746033,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6257f"},"movieID":135178,"title":"Dawg Fight ","hashtagTitle":"#DawgFight","rating":2.8333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62580"},"movieID":135200,"title":"Chocolate City ","hashtagTitle":"#ChocolateCity","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62581"},"movieID":135224,"title":"Hamari Adhuri Kahaani ","hashtagTitle":"#HamariAdhuriKahaani","rating":1.625,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62582"},"movieID":135238,"title":"The Sky Above Us ","hashtagTitle":"#TheSkyAboveUs","rating":4.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62583"},"movieID":135468,"title":"Senior Project ","hashtagTitle":"#SeniorProject","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62584"},"movieID":135492,"title":"Kaaka Muttai ","hashtagTitle":"#KaakaMuttai","rating":4.333333333333333,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62585"},"movieID":135500,"title":"Gabbar Is Back ","hashtagTitle":"#GabbarIsBack","rating":2.125,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62586"},"movieID":135504,"title":"Little Boy ","hashtagTitle":"#LittleBoy","rating":3.6973684210526314,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62587"},"movieID":135508,"title":"A Deadly Adoption ","hashtagTitle":"#ADeadlyAdoption","rating":2.3529411764705883,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62588"},"movieID":135532,"title":"The Last Witch Hunter ","hashtagTitle":"#TheLastWitchHunter","rating":2.908450704225352,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62589"},"movieID":135534,"title":"Krampus ","hashtagTitle":"#Krampus","rating":2.8365384615384617,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6258a"},"movieID":135539,"title":"Aurora ","hashtagTitle":"#Aurora","rating":2.8333333333333335,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6258b"},"movieID":135625,"title":"Final Girl ","hashtagTitle":"#FinalGirl","rating":2.8214285714285716,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6258c"},"movieID":135643,"title":"The Disappointments Room ","hashtagTitle":"#TheDisappointmentsRoom","rating":3.75,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6258d"},"movieID":135699,"title":"Grace Stirs Up Success ","hashtagTitle":"#GraceStirsUpSuccess","rating":1.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6258e"},"movieID":135861,"title":"Ted 2 ","hashtagTitle":"#Ted2","rating":3.0262008733624453,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee6258f"},"movieID":135885,"title":"Absolutely Anything ","hashtagTitle":"#AbsolutelyAnything","rating":2.8095238095238093,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62590"},"movieID":135887,"title":"Minions ","hashtagTitle":"#Minions","rating":3.246978851963746,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62591"},"movieID":136016,"title":"The Good Dinosaur ","hashtagTitle":"#TheGoodDinosaur","rating":3.467032967032967,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62592"},"movieID":136018,"title":"Black Mass ","hashtagTitle":"#BlackMass","rating":3.34375,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62593"},"movieID":136020,"title":"Spectre ","hashtagTitle":"#Spectre","rating":3.348710990502035,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62594"},"movieID":136204,"title":"The Second Mother ","hashtagTitle":"#TheSecondMother","rating":4.076086956521739,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62595"},"movieID":136257,"title":"Avengers Grimm ","hashtagTitle":"#AvengersGrimm","rating":1.1428571428571428,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62596"},"movieID":136509,"title":"Little Big Master ","hashtagTitle":"#LittleBigMaster","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62597"},"movieID":136524,"title":"The Amityville Playhouse ","hashtagTitle":"#TheAmityvillePlayhouse","rating":1.5,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62598"},"movieID":136562,"title":"Steve Jobs ","hashtagTitle":"#SteveJobs","rating":3.3624161073825505,"year":2015}
+{"_id":{"$oid":"574258369d6ed502eee62599"},"movieID":136564,"title":"Macbeth ","hashtagTitle":"#Macbeth","rating":3.5319148936170213,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6259a"},"movieID":136598,"title":"Vacation ","hashtagTitle":"#Vacation","rating":3.2565789473684212,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6259b"},"movieID":136632,"title":"Jurassic City ","hashtagTitle":"#JurassicCity","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6259c"},"movieID":136640,"title":"Back to the Jurassic ","hashtagTitle":"#BacktotheJurassic","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6259d"},"movieID":136652,"title":"Phantom Halo ","hashtagTitle":"#PhantomHalo","rating":3.2,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6259e"},"movieID":136654,"title":"The Face of an Angel ","hashtagTitle":"#TheFaceofanAngel","rating":2.4,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6259f"},"movieID":136664,"title":"Wild Horses ","hashtagTitle":"#WildHorses","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a0"},"movieID":136678,"title":"Tooken ","hashtagTitle":"#Tooken","rating":0.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a1"},"movieID":136680,"title":"Battle For SkyArk ","hashtagTitle":"#BattleForSkyArk","rating":1.9166666666666667,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a2"},"movieID":136686,"title":"After the Ball ","hashtagTitle":"#AftertheBall","rating":3.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a3"},"movieID":136688,"title":"Private Number ","hashtagTitle":"#PrivateNumber","rating":2.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a4"},"movieID":136694,"title":"See You In Valhalla ","hashtagTitle":"#SeeYouInValhalla","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a5"},"movieID":136696,"title":"Absolution ","hashtagTitle":"#Absolution","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a6"},"movieID":136702,"title":"The Four Warriors ","hashtagTitle":"#TheFourWarriors","rating":1.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a7"},"movieID":136724,"title":"Dial a Prayer ","hashtagTitle":"#DialaPrayer","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a8"},"movieID":136726,"title":"The Last Time You Had Fun ","hashtagTitle":"#TheLastTimeYouHadFun","rating":2.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625a9"},"movieID":136736,"title":"Faith of Our Fathers ","hashtagTitle":"#FaithofOurFathers","rating":2.1,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625aa"},"movieID":136754,"title":"Champs ","hashtagTitle":"#Champs","rating":3.142857142857143,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ab"},"movieID":136776,"title":"Fishing Naked ","hashtagTitle":"#FishingNaked","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ac"},"movieID":136778,"title":"The Squeeze ","hashtagTitle":"#TheSqueeze","rating":3.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ad"},"movieID":136784,"title":"From the Dark ","hashtagTitle":"#FromtheDark","rating":3.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ae"},"movieID":136786,"title":"Careful What You Wish For ","hashtagTitle":"#CarefulWhatYouWishFor","rating":3.2857142857142856,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625af"},"movieID":136788,"title":"Any Day ","hashtagTitle":"#AnyDay","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b0"},"movieID":136804,"title":"Russell Madness ","hashtagTitle":"#RussellMadness","rating":1.3333333333333333,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b1"},"movieID":136812,"title":"The Millennials ","hashtagTitle":"#TheMillennials","rating":4.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b2"},"movieID":136816,"title":"Bad Asses on the Bayou ","hashtagTitle":"#BadAssesontheBayou","rating":3.375,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b3"},"movieID":136818,"title":"Silent Retreat ","hashtagTitle":"#SilentRetreat","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b4"},"movieID":136859,"title":"The Lovers ","hashtagTitle":"#TheLovers","rating":1.9,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b5"},"movieID":136916,"title":"Vendetta ","hashtagTitle":"#Vendetta","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b6"},"movieID":136918,"title":"Age Of Kill ","hashtagTitle":"#AgeOfKill","rating":3.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b7"},"movieID":136922,"title":"Bordering on Bad Behavior ","hashtagTitle":"#BorderingonBadBehavior","rating":0.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b8"},"movieID":136936,"title":"88 ","hashtagTitle":"#88","rating":2.3,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625b9"},"movieID":136998,"title":"The Wrong Girl ","hashtagTitle":"#TheWrongGirl","rating":5.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ba"},"movieID":137034,"title":"Perfect High ","hashtagTitle":"#PerfectHigh","rating":3.4285714285714284,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625bb"},"movieID":137278,"title":"Cyberbully ","hashtagTitle":"#Cyberbully","rating":3.8181818181818183,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625bc"},"movieID":137337,"title":"Amy ","hashtagTitle":"#Amy","rating":3.91044776119403,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625bd"},"movieID":137563,"title":"Stung ","hashtagTitle":"#Stung","rating":2.6785714285714284,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625be"},"movieID":137595,"title":"Magic Mike XXL ","hashtagTitle":"#MagicMikeXXL","rating":2.9266666666666667,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625bf"},"movieID":137612,"title":"Babai ","hashtagTitle":"#Babai","rating":4.833333333333333,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c0"},"movieID":137715,"title":"Rey Gitano ","hashtagTitle":"#ReyGitano","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c1"},"movieID":137873,"title":"Stonemouth ","hashtagTitle":"#Stonemouth","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c2"},"movieID":137900,"title":"Accidental Love ","hashtagTitle":"#AccidentalLove","rating":0.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c3"},"movieID":137920,"title":"Bombay Velvet ","hashtagTitle":"#BombayVelvet","rating":2.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c4"},"movieID":138030,"title":"The Chinese Mayor ","hashtagTitle":"#TheChineseMayor","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c5"},"movieID":138038,"title":"The Widowmaker ","hashtagTitle":"#TheWidowmaker","rating":3.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c6"},"movieID":138180,"title":"All Eyes And Ears ","hashtagTitle":"#AllEyesAndEars","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c7"},"movieID":138186,"title":"Sorrow ","hashtagTitle":"#Sorrow","rating":0.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c8"},"movieID":138202,"title":"Burying the Ex ","hashtagTitle":"#BuryingtheEx","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625c9"},"movieID":138204,"title":"7 Days in Hell ","hashtagTitle":"#7DaysinHell","rating":3.147887323943662,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ca"},"movieID":138206,"title":"Echoes of War ","hashtagTitle":"#EchoesofWar","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625cb"},"movieID":138210,"title":"13 Hours ","hashtagTitle":"#13Hours","rating":2.9761904761904763,"year":2016}
+{"_id":{"$oid":"574258379d6ed502eee625cc"},"movieID":138230,"title":"Staten Island Summer ","hashtagTitle":"#StatenIslandSummer","rating":2.9305555555555554,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625cd"},"movieID":138258,"title":"Nasty Baby ","hashtagTitle":"#NastyBaby","rating":2.8125,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ce"},"movieID":138260,"title":"Bad Night ","hashtagTitle":"#BadNight","rating":0.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625cf"},"movieID":138958,"title":"Wuthering High ","hashtagTitle":"#WutheringHigh","rating":1.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d0"},"movieID":139046,"title":"My Golden Days ","hashtagTitle":"#MyGoldenDays","rating":3.625,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d1"},"movieID":139052,"title":"Dark Places ","hashtagTitle":"#DarkPlaces","rating":3.076923076923077,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d2"},"movieID":139120,"title":"Mustang ","hashtagTitle":"#Mustang","rating":3.825,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d3"},"movieID":139124,"title":"Microbe et Gasoil ","hashtagTitle":"#MicrobeetGasoil","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d4"},"movieID":139148,"title":"Bajrangi Bhaijaan ","hashtagTitle":"#BajrangiBhaijaan","rating":3.2,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d5"},"movieID":139153,"title":"Eli ","hashtagTitle":"#Eli","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d6"},"movieID":139157,"title":"Massu Engira Maasilamani ","hashtagTitle":"#MassuEngiraMaasilamani","rating":0.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d7"},"movieID":139205,"title":"Tanu Weds Manu Returns ","hashtagTitle":"#TanuWedsManuReturns","rating":3.5714285714285716,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d8"},"movieID":139251,"title":"Sweet Lorraine ","hashtagTitle":"#SweetLorraine","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625d9"},"movieID":139311,"title":"Road Wars ","hashtagTitle":"#RoadWars","rating":3.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625da"},"movieID":139313,"title":"Awaken ","hashtagTitle":"#Awaken","rating":1.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625db"},"movieID":139317,"title":"Pressure ","hashtagTitle":"#Pressure","rating":3.0384615384615383,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625dc"},"movieID":139319,"title":"American Justice ","hashtagTitle":"#AmericanJustice","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625dd"},"movieID":139321,"title":"Unknown Caller ","hashtagTitle":"#UnknownCaller","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625de"},"movieID":139383,"title":"Legacy ","hashtagTitle":"#Legacy","rating":3.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625df"},"movieID":139385,"title":"The Revenant ","hashtagTitle":"#TheRevenant","rating":3.929372197309417,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e0"},"movieID":139415,"title":"Irrational Man ","hashtagTitle":"#IrrationalMan","rating":3.361111111111111,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e1"},"movieID":139417,"title":"Tale of Tales ","hashtagTitle":"#TaleofTales","rating":2.913793103448276,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e2"},"movieID":139423,"title":"Cleveland Abduction ","hashtagTitle":"#ClevelandAbduction","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e3"},"movieID":139501,"title":"Carte Blanche ","hashtagTitle":"#CarteBlanche","rating":3.1666666666666665,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e4"},"movieID":139525,"title":"Cartel Land ","hashtagTitle":"#CartelLand","rating":3.3636363636363638,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e5"},"movieID":139600,"title":"Snow in Paradise ","hashtagTitle":"#SnowinParadise","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e6"},"movieID":139626,"title":"The Human Experiment ","hashtagTitle":"#TheHumanExperiment","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e7"},"movieID":139634,"title":"The True Cost ","hashtagTitle":"#TheTrueCost","rating":3.4,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e8"},"movieID":139642,"title":"Southpaw ","hashtagTitle":"#Southpaw","rating":3.44314381270903,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625e9"},"movieID":139644,"title":"Sicario ","hashtagTitle":"#Sicario","rating":3.816190476190476,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ea"},"movieID":139651,"title":"The Bride He Bought Online ","hashtagTitle":"#TheBrideHeBoughtOnline","rating":1.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625eb"},"movieID":139715,"title":"War Pigs ","hashtagTitle":"#WarPigs","rating":2.6153846153846154,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ec"},"movieID":139717,"title":"10 Cent Pistol ","hashtagTitle":"#10CentPistol","rating":0.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ed"},"movieID":139757,"title":"Best of Enemies ","hashtagTitle":"#BestofEnemies","rating":3.6538461538461537,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ee"},"movieID":139759,"title":"Lavalantula ","hashtagTitle":"#Lavalantula","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ef"},"movieID":139771,"title":"Chloe and Theo ","hashtagTitle":"#ChloeandTheo","rating":3.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f0"},"movieID":139779,"title":"The Phoenix Project ","hashtagTitle":"#ThePhoenixProject","rating":1.3333333333333333,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f1"},"movieID":139847,"title":"Chevalier ","hashtagTitle":"#Chevalier","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f2"},"movieID":139855,"title":"Anomalisa ","hashtagTitle":"#Anomalisa","rating":3.5677966101694913,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f3"},"movieID":139857,"title":"Colonia ","hashtagTitle":"#Colonia","rating":3.15,"year":2016}
+{"_id":{"$oid":"574258379d6ed502eee625f4"},"movieID":139897,"title":"Somewhere Only We Know ","hashtagTitle":"#SomewhereOnlyWeKnow","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f5"},"movieID":139901,"title":"Triumph in the Skies ","hashtagTitle":"#TriumphintheSkies","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f6"},"movieID":140074,"title":"The Vatican Tapes ","hashtagTitle":"#TheVaticanTapes","rating":2.1818181818181817,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f7"},"movieID":140098,"title":"Runoff ","hashtagTitle":"#Runoff","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f8"},"movieID":140106,"title":"Our Little Sister ","hashtagTitle":"#OurLittleSister","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625f9"},"movieID":140108,"title":"Yakuza Apocalypse ","hashtagTitle":"#YakuzaApocalypse","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625fa"},"movieID":140131,"title":"Extinction ","hashtagTitle":"#Extinction","rating":3.1739130434782608,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625fb"},"movieID":140146,"title":"The Suicide Theory ","hashtagTitle":"#TheSuicideTheory","rating":3.1666666666666665,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625fc"},"movieID":140152,"title":"Dreamcatcher ","hashtagTitle":"#Dreamcatcher","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625fd"},"movieID":140160,"title":"Descendants ","hashtagTitle":"#Descendants","rating":2.767857142857143,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625fe"},"movieID":140162,"title":"Love ","hashtagTitle":"#Love","rating":3.225,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee625ff"},"movieID":140174,"title":"Room ","hashtagTitle":"#Room","rating":3.9471153846153846,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62600"},"movieID":140204,"title":"Backmask ","hashtagTitle":"#Backmask","rating":1.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62601"},"movieID":140237,"title":"The Runner ","hashtagTitle":"#TheRunner","rating":2.933333333333333,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62602"},"movieID":140245,"title":"Twenty ","hashtagTitle":"#Twenty","rating":3.1666666666666665,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62603"},"movieID":140247,"title":"The Gift ","hashtagTitle":"#TheGift","rating":3.537777777777778,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62604"},"movieID":140261,"title":"Set Fire to the Stars ","hashtagTitle":"#SetFiretotheStars","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62605"},"movieID":140267,"title":"The Witch ","hashtagTitle":"#TheWitch","rating":3.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62606"},"movieID":140291,"title":"About Ray ","hashtagTitle":"#AboutRay","rating":3.6666666666666665,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62607"},"movieID":140301,"title":"The Escort ","hashtagTitle":"#TheEscort","rating":3.5789473684210527,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62608"},"movieID":140309,"title":"Uncle John ","hashtagTitle":"#UncleJohn","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62609"},"movieID":140315,"title":"Last Cab to Darwin ","hashtagTitle":"#LastCabtoDarwin","rating":4.05,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6260a"},"movieID":140339,"title":"Admiral ","hashtagTitle":"#Admiral","rating":2.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6260b"},"movieID":140341,"title":"Lava ","hashtagTitle":"#Lava","rating":3.2941176470588234,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6260c"},"movieID":140525,"title":"Secret in Their Eyes ","hashtagTitle":"#SecretinTheirEyes","rating":3.1538461538461537,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6260d"},"movieID":140529,"title":"Sinister 2 ","hashtagTitle":"#Sinister2","rating":2.723404255319149,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6260e"},"movieID":140581,"title":"I Am Chris Farley ","hashtagTitle":"#IAmChrisFarley","rating":3.5833333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6260f"},"movieID":140627,"title":"Battle For Sevastopol ","hashtagTitle":"#BattleForSevastopol","rating":3.8333333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62610"},"movieID":140635,"title":"Almost Mercy ","hashtagTitle":"#AlmostMercy","rating":2.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62611"},"movieID":140701,"title":"Harbinger Down ","hashtagTitle":"#HarbingerDown","rating":2.4375,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62612"},"movieID":140711,"title":"American Ultra ","hashtagTitle":"#AmericanUltra","rating":3.086705202312139,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62613"},"movieID":140713,"title":"No Escape ","hashtagTitle":"#NoEscape","rating":3.2580645161290325,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62614"},"movieID":140715,"title":"Straight Outta Compton ","hashtagTitle":"#StraightOuttaCompton","rating":3.753448275862069,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62615"},"movieID":140725,"title":"Cop Car ","hashtagTitle":"#CopCar","rating":3.310344827586207,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62616"},"movieID":140773,"title":"A LEGO Brickumentary ","hashtagTitle":"#ALEGOBrickumentary","rating":3.625,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62617"},"movieID":140777,"title":"Pasolini ","hashtagTitle":"#Pasolini","rating":2.7,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62618"},"movieID":140805,"title":"Attack on Titan ","hashtagTitle":"#AttackonTitan","rating":2.86,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62619"},"movieID":140816,"title":"Tangerine ","hashtagTitle":"#Tangerine","rating":3.7439024390243905,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6261a"},"movieID":140820,"title":"Air ","hashtagTitle":"#Air","rating":2.78125,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6261b"},"movieID":140844,"title":"13 Minutes ","hashtagTitle":"#13Minutes","rating":3.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6261c"},"movieID":140864,"title":"Butterfly ","hashtagTitle":"#Butterfly","rating":5.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6261d"},"movieID":140928,"title":"Joy ","hashtagTitle":"#Joy","rating":3.008771929824561,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6261e"},"movieID":140962,"title":"Amnesiac ","hashtagTitle":"#Amnesiac","rating":2.3333333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6261f"},"movieID":141004,"title":"Victor Frankenstein ","hashtagTitle":"#VictorFrankenstein","rating":3.0833333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62620"},"movieID":141054,"title":"Journey To Space ","hashtagTitle":"#JourneyToSpace","rating":2.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62621"},"movieID":141058,"title":"Manjhi The Mountain Man ","hashtagTitle":"#ManjhiTheMountainMan","rating":3.5555555555555554,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62622"},"movieID":141060,"title":"Fly Away Solo ","hashtagTitle":"#FlyAwaySolo","rating":4.375,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62623"},"movieID":141062,"title":"Homies ","hashtagTitle":"#Homies","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62624"},"movieID":141098,"title":"Being Evel ","hashtagTitle":"#BeingEvel","rating":2.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62625"},"movieID":141120,"title":"Brothers ","hashtagTitle":"#Brothers","rating":2.8,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62626"},"movieID":141355,"title":"The Spiderwebhouse ","hashtagTitle":"#TheSpiderwebhouse","rating":3.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62627"},"movieID":141393,"title":"Kill Your Friends ","hashtagTitle":"#KillYourFriends","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62628"},"movieID":141395,"title":"Nina Forever ","hashtagTitle":"#NinaForever","rating":1.5833333333333333,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62629"},"movieID":141397,"title":"Equals ","hashtagTitle":"#Equals","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6262a"},"movieID":141422,"title":"Suffragette ","hashtagTitle":"#Suffragette","rating":3.5588235294117645,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6262b"},"movieID":141426,"title":"Joker Game ","hashtagTitle":"#JokerGame","rating":3.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6262c"},"movieID":141432,"title":"Sweet Red Bean Paste ","hashtagTitle":"#SweetRedBeanPaste","rating":3.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6262d"},"movieID":141485,"title":"The High Sun ","hashtagTitle":"#TheHighSun","rating":3.8333333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6262e"},"movieID":141536,"title":"Veteran ","hashtagTitle":"#Veteran","rating":3.75,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee6262f"},"movieID":141538,"title":"Assassination ","hashtagTitle":"#Assassination","rating":3.7083333333333335,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62630"},"movieID":141544,"title":"Turbo Kid ","hashtagTitle":"#TurboKid","rating":3.3372093023255816,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62631"},"movieID":141590,"title":"Paulina ","hashtagTitle":"#Paulina","rating":3.25,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62632"},"movieID":141630,"title":"Bridgend ","hashtagTitle":"#Bridgend","rating":4.5,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62633"},"movieID":141632,"title":"Zurich ","hashtagTitle":"#Zurich","rating":4.0,"year":2015}
+{"_id":{"$oid":"574258379d6ed502eee62634"},"movieID":141636,"title":"Papanasam ","hashtagTitle":"#Papanasam","rating":4.0,"year":2015}
